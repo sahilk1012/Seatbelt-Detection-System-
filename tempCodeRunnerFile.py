@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/yehiahassanain/seat-belt2
